@@ -1,0 +1,59 @@
+[
+
+{
+  "title":"react", 
+  "link":"https://reactjs.org/", 
+  "description": "React – A JavaScript library for building user interfaces"
+},
+{
+  "title":"react js", 
+  "link":"https://reactjs.org/", 
+  "description": "React JS – A JavaScript library for building user interfaces"
+},
+{
+  "title":"react doc", 
+  "link":"https://reactjs.org/docs/getting-started.html", 
+  "description": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial."
+},
+{
+  "title":"react tutorials", 
+  "link":"https://www.w3schools.com/REACT/", 
+  "description": "React Tutorial from w3schools"
+},
+{
+  "title":"react native", 
+  "link":"https://reactnative.dev/", 
+  "description": "React Native Learn once, write anywhere"
+},
+{
+  "title":"react bootstrap", 
+  "link":"https://react-bootstrap.github.io/", 
+  "description": "React-Bootstrap · React-Bootstrap Documentation"
+},
+{
+  "title":"react router", 
+  "link":"https://reactrouter.com/", 
+  "description": "I'm New. Start with the tutorial. It will quickly introduce you to the primary features of React Router: from configuring routes, to loading and mutating data."
+},
+{
+  "title":"react applications", 
+  "link":"https://create-react-app.dev/", 
+  "description": "Create React App · Less to Learn. You don't need to learn and configure many build tools. Instant reloads help you focus on development"
+},
+{
+  "title":"react components", 
+  "link":"https://www.w3schools.com/react/react_components.asp", 
+  "description": "Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML"
+},
+{
+  "title":"react hooks", 
+  "link":"https://reactjs.org/docs/hooks-intro.html", 
+  "description": "Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class"
+},
+{
+  "title":"react jobs", 
+  "link":"https://bg.linkedin.com/jobs/react-js-jobs", 
+  "description": "Today's top 759 React Js jobs in Bulgaria. Leverage your professional network, ... New React Js jobs added daily"
+}
+
+]
